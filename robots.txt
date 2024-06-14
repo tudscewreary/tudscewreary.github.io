@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tudscewreary.github.io/sitemap
+Sitemap: https://tudscewreary.github.io/app/sitemap
+Sitemap: https://tudscewreary.github.io/assets/sitemap
+Sitemap: https://tudscewreary.github.io/css/sitemap
+Sitemap: https://tudscewreary.github.io/includes/sitemap
+Sitemap: https://tudscewreary.github.io/item/sitemap
+Sitemap: https://tudscewreary.github.io/src/sitemap
